@@ -468,7 +468,7 @@ img {
     justify-content: center;
     text-align: center;
     color: var(--clr-white);
-    background-image: url('assets/hero-bg.png');
+    background-image: url('hero-bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
